@@ -1,5 +1,7 @@
 # Breast cancer prediction: Project overview
 
+**Tags: Adaboost, random forest, decision tree, EDA, feature engineering, precision, recall**
+
 - This notebook is part of Titanic - Machine Learning from Disaster Kaggle's competition. 
 - Created a model that predicted whether the passenger survived or not. 
 - Models: decision tree, random forest, and AdaBoost.
@@ -53,4 +55,3 @@ The best model performances were random forests with 50 and 100 estimators. But 
 |AdaBoost 50 estimators|0.736|0.727|
 |AdaBoost 100 estimators|0.727|0.727|
 |AdaBoost 200 estimators|0.737|0.707|
-
